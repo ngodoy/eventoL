@@ -62,7 +62,6 @@ class Base(Configuration):
         'django.contrib.postgres',
         'django_filters',
         'rest_framework',
-        'channels',
         'django_extensions',
         'vote',
         'tempus_dominus',
